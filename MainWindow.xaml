@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PixelPowerPreInterviewAssessment"
         mc:Ignorable="d"
+        Icon="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/4/2/3/1293423_pixelpowerlogo_908772.png"
         ResizeMode="NoResize"
         Title="PixelPowerPreInterviewAssessment: File Lister" Height="650" Width="1000">
 
